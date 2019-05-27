@@ -5,7 +5,7 @@ let obj: object = {
     last_name: 'Budtinger',
     age: 29,
     city: 'Capanema',
-    estate: 'PR'
+    state: 'PR'
 }
 
 //any
